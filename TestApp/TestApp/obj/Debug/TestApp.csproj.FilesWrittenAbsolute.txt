@@ -1,0 +1,13 @@
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/bin/Debug/TestApp.dll.mdb
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/bin/Debug/TestApp.dll
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/bin/Debug/TestApp.TestApp.apk
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/android/bin/TestApp.TestApp.apk
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/res/layout/main.xml
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/res/values/strings.xml
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/res/drawable/icon.png
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/R.cs.flag
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/bin/Debug/TestApp.TestApp-Signed.apk
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/uploadflags.txt
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/TestApp.dll
+/Users/lisyxmac2/Documents/Coding/Xamarin/Android/TestAndroid Git/TestApp/TestApp/obj/Debug/TestApp.dll.mdb
