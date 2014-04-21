@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/backgroundFrame">
+    <TextView
+        android:text="@string/imFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bigTitle"
+        android:layout_gravity="center_horizontal|top"
+        android:layout_marginTop="64dp"
+        android:textColor="#ffffffff"
+        android:textSize="24sp"
+        android:shadowColor="#ff000000"
+        android:shadowDx="0"
+        android:shadowDy="1"
+        android:shadowRadius="0.5" />
+</FrameLayout>
